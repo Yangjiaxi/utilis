@@ -1,7 +1,6 @@
 .
 ├── Algorithms
 │   ├── CV
-│   │   ├── DeformConv.pdf
 │   │   └── StyleTransfer.pdf
 │   ├── NLP
 │   │   └── DMN-nlp.pdf
@@ -55,12 +54,18 @@
 │       └── glorot10a.pdf
 ├── Models
 │   ├── CroodConv.pdf
+│   ├── DeformConv.pdf
 │   ├── DesNet.pdf
 │   ├── GAN.pdf
+│   ├── Inception_v1.pdf
+│   ├── Inception_v2_v3.pdf
+│   ├── Inception_v4_resnet.pdf
 │   ├── ResNet.pdf
 │   ├── Stack-U-net.pdf
-│   └── U-net.pdf
+│   ├── U-net.pdf
+│   └── assert
+│       └── resnet1.png
 ├── readme.md
 └── tree.txt
 
-6 directories, 57 files
+7 directories, 61 files
