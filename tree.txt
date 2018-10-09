@@ -57,9 +57,10 @@
 │   ├── DeformConv.pdf
 │   ├── DesNet.pdf
 │   ├── GAN.pdf
-│   ├── Inception_v1.pdf
-│   ├── Inception_v2_v3.pdf
-│   ├── Inception_v4_resnet.pdf
+│   ├── Inception
+│   │   ├── Inception_v1.pdf
+│   │   ├── Inception_v2_v3.pdf
+│   │   └── Inception_v4_resnet.pdf
 │   ├── ResNet.pdf
 │   ├── Stack-U-net.pdf
 │   ├── U-net.pdf
@@ -68,4 +69,4 @@
 ├── readme.md
 └── tree.txt
 
-7 directories, 61 files
+8 directories, 61 files
