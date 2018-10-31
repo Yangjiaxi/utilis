@@ -3,8 +3,8 @@
 │   ├── CV
 │   │   └── StyleTransfer.pdf
 │   ├── NLP
-│   │   ├── 1802.05365.pdf
-│   │   └── DMN-nlp.pdf
+│   │   ├── DMN-nlp.pdf
+│   │   └── ELMo.pdf
 │   ├── ObjectDetection
 │   │   ├── 01_X_R-CNN.pdf
 │   │   ├── 02_X_OverFeat.pdf
@@ -66,7 +66,7 @@
 │   ├── ResNet.pdf
 │   ├── Stack-U-net.pdf
 │   ├── U-net.pdf
-│   └── assert
+│   └── resource
 │       └── resnet1.png
 ├── readme.md
 └── tree.txt
