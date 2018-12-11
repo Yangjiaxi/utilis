@@ -1,6 +1,7 @@
 .
 ├── Algorithms
 │   ├── CV
+│   │   ├── FocalLoss.pdf
 │   │   └── StyleTransfer.pdf
 │   ├── FaceRecognition
 │   │   ├── DeepFace.pdf
@@ -58,6 +59,7 @@
 │   │   └── 43_RFBNet.pdf
 │   └── Other
 │       ├── DatabaseIndex.pdf
+│       ├── Myers-DiffAlgorithm.pdf
 │       ├── NEAT.pdf
 │       ├── SMO-optim.pdf
 │       └── glorot10a.pdf
@@ -79,4 +81,4 @@
 ├── readme.md
 └── tree.txt
 
-9 directories, 70 files
+9 directories, 72 files
